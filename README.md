@@ -46,3 +46,7 @@ api.delete('/posts/1')
   .then(data => console.log('DELETE response:', data))
   .catch(err => console.error('DELETE error:', err));
 ```
+
+# Bugs
+
+There is no bugs.
