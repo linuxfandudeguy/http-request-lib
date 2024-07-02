@@ -7,6 +7,7 @@
 ```http-request-lib``` is a NPM package for making http requests and is built on `axios` for handling http requests.
 
 
+
 `http-request-lib` currently supports the following methods: 
 
 GET: Retrieve data from a specified resource.
