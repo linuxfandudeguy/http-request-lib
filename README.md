@@ -8,6 +8,7 @@
 
 
 
+
 `http-request-lib` currently supports the following methods: 
 
 GET: Retrieve data from a specified resource.
